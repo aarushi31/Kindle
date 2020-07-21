@@ -29,8 +29,10 @@
 
 #about .box { 
     padding: 7px;
+    display:block;
     margin: 2px 0px; 
     margin-bottom: 20px;
+    margin:auto;
 }
 
 /* Clients section */
